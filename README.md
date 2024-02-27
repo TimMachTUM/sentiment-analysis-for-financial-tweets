@@ -7,7 +7,6 @@ This repository contains the work I developed for the Optiver Challenge at Hacka
 ## Project Structure
 
 - `data/`: Contains sample datasets, including tweets and market data used for training and testing the model.
-- `models/`: Includes the pre-trained DistilBERT model and any fine-tuned models along with their configurations.
 - `requirements.txt`: Lists all the necessary Python packages needed to run the code in this repository.
 
 ## Setup
