@@ -34,6 +34,6 @@ The core of this project is the sentiment analysis model powered by DistilBERT, 
 
 ## Results
 
-The sentiment analysis model achieved an overall accuracy of 82.47% on the test set and our team reached 13th place in the whole competition.
+The sentiment analysis model achieved an overall accuracy of 81.44% on the test set and our team reached 13th place in the whole competition.
 
 ---
